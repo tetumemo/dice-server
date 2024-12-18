@@ -50,6 +50,21 @@ npm install @tetumemo/dice-server
 }
 ```
 
+##### Window:
+
+```json
+{
+  "mcpServers": {
+    "dice": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\your_name\\node_modules\\dice-server\\build\\index.js"
+      ]
+    }
+  }
+}
+```
+
 #### Claudeでの使用例：
 
 ```
